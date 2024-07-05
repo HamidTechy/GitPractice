@@ -1,2 +1,2 @@
 # GitPractice
-I made this Git for practice
+I made this Git repository for practice
